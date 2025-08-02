@@ -5,6 +5,8 @@
     {
       "name": "test1_package1",
       "artokenurl": "test1_package1_artokenurl",
+      "artokenxsize": 13,
+      "artokenysize": 13,
       "geometryurl": "test1_package1_geometryurl",
       "dataurl":  "test1_package1_dataurl"
     }
