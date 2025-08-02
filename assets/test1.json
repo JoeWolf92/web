@@ -1,0 +1,12 @@
+{
+  "name" : "test1",
+  "description" : "example aredu asset package",
+  "assets" : [
+    {
+      "name": "test1_package1",
+      "artokenurl": "test1_package1_artokenurl",
+      "geometryurl": "test1_package1_geometryurl",
+      "dataurl":  "test1_package1_dataurl"
+    }
+  ]
+}
