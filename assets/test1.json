@@ -4,7 +4,7 @@
   "assets" : [
     {
       "name": "test1_package1",
-      "artokenurl": "test1_package1_artokenurl",
+      "artokenurl": "https://ar-edu.github.io/web/assets/test1/CockcorftClara.jpg",
       "artokenxsize": 13,
       "artokenysize": 13,
       "geometryurl": "test1_package1_geometryurl",
