@@ -8,7 +8,10 @@
       "artokenxsize": 13,
       "artokenysize": 13,
       "geometryurl": "https://stewartboogert.github.io/webxredu/models/2025_06_20_Morgan/cavity.gltf",
-      "dataurl":  ""
+      "dataurl":  "",
+      "scale": [1,1,1],
+      "position": [0,0,0],
+      "rotation": [0,0,0]
     }
   ]
 }
