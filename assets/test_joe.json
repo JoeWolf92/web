@@ -1,0 +1,17 @@
+{
+  "name" : "test_joe",
+  "description" : "example aredu asset package",
+  "assets" : [
+    {
+      "name": "test_joe_package1",
+      "artokenurl": "https://ar-edu.github.io/web/assets/test_joe/marker_joe.jpg",
+      "artokenxsize": 13,
+      "artokenysize": 13,
+      "geometryurl": "https://stewartboogert.github.io/webxredu/models/2025_06_20_Morgan/cavity.gltf",
+      "dataurl":  "",
+      "scale": [0.001,0.001,0.001],
+      "position": [0,0.5,0],
+      "rotation": [0,0,0]
+    }
+  ]
+}
